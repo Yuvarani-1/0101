@@ -16,3 +16,8 @@ code .
     for branch:
     git checkout -b "Branch name"
     -->
+
+font awesome: https://fontawesome.com/search?q=user&o=r
+font cdn : https://cdnjs.com/libraries/font-awesome
+
+google fonts: https://fonts.google.com/
